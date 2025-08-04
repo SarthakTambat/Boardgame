@@ -29,6 +29,10 @@ Creating a Git Repository
 **
 <img width="1916" height="970" alt="image" src="https://github.com/user-attachments/assets/cc09eae7-9e21-4b44-a38e-c9437eb62188" />
 
+**Nexus Repository 
+**
+<img width="1919" height="591" alt="image" src="https://github.com/user-attachments/assets/75ee8f01-f286-4d8e-9f39-cf6202b19a44" />
+
 
 **CI/CD Deployment 
 **
