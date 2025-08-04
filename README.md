@@ -51,6 +51,14 @@ Creating a Git Repository
 
 ![WhatsApp Image 2025-08-04 at 17 45 54_e36658ab](https://github.com/user-attachments/assets/2d0b3ddb-03aa-44fd-8b23-264612356584)
 
+
+Web-Application 
+
+<img width="1346" height="609" alt="image" src="https://github.com/user-attachments/assets/4eb5fbed-71c0-430c-87ad-a44170795f78" />
+
+
+<img width="1333" height="585" alt="image" src="https://github.com/user-attachments/assets/c33a1b51-5e7f-4faa-ba90-35def16db7ca" />
+
 **
 Monitoring and Analysis  Using Grafana and Prometheus **
 
